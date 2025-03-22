@@ -13,5 +13,8 @@
   "description": "",
   "devDependencies": {
     "vite": "^6.2.2"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2"
   }
 }
